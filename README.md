@@ -29,7 +29,7 @@ Off delay timer with additional information
 ### fb_TONRT
 On delay retentive reset timer with additional information
 
-![TONRT](https://github.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/TONR.jpg)
+![TONRT](https://github.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/TONRT.jpg)
 
 ### fb_Watchdog
 Monitors a boolean signal, and sets output TRUE if no change (rising or falling edge) has occured in a specified time
